@@ -1,0 +1,10 @@
+﻿body {
+    font-family:'Courier New', Courier, monospace;
+}
+section h3{
+    text-align: right;
+}
+.image{
+    display:flex;
+    justify-content: center;
+}
